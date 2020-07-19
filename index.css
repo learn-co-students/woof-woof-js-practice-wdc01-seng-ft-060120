@@ -51,3 +51,7 @@
 body {
   margin: 0;
 }
+
+#dog-bar .hidden {
+  display: none;
+}
